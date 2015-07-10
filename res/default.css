@@ -323,11 +323,11 @@ ul {
 }
 
 .message-pane small {
-	display: none;
+	/* display: none; */ /* Display the timestamps not only on hover */
 	color: #a00;
 	font-size: 10px;
 	position: absolute;
-	background-color: #f7f7f7;
+	/* background-color: #f7f7f7; */
 	text-align: center;
 	line-height: 20px;
 	margin: 4px 0;

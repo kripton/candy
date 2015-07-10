@@ -59,7 +59,7 @@ Candy.View.Translation = {
 		'userChangedNick': '%1$s is now known as %2$s.',
 
 		'dateFormat': 'dd.mm.yyyy',
-		'timeFormat': 'HH:MM:ss',
+		'timeFormat': 'dd.mm.yyyy HH:MM:ss',
 
 		'tooltipRole'			: 'Moderator',
 		'tooltipIgnored'		: 'You ignore this user',
@@ -124,7 +124,7 @@ Candy.View.Translation = {
 		'userChangedNick': '%1$s hat den Nicknamen zu %2$s geändert.',
 
 		'dateFormat': 'dd.mm.yyyy',
-		'timeFormat': 'HH:MM:ss',
+		'timeFormat': 'dd.mm.yyyy HH:MM:ss',
 
 		'tooltipRole'			: 'Moderator',
 		'tooltipIgnored'		: 'Du ignorierst diesen Benutzer',
